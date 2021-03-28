@@ -18,3 +18,6 @@
 |  /api/article/delete/:id  |  投稿削除  |
 |  /api/articles/list  |  投稿一覧  |
 |  /api/articles/list/:id  |  投稿詳細  |
+
+# ER図
+![image](https://user-images.githubusercontent.com/60598010/112742568-a3405480-8fca-11eb-85c1-58e50dda108b.png)
